@@ -1,0 +1,247 @@
+# uber63oc
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tips Game RTP - UBER63 ONLINE CASINO</title>
+  <style>
+    /* Background casino dengan gambar dan overlay gelap */
+    body {
+      margin: 0; padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #eee;
+      background:
+        linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)),
+        url('https://images.unsplash.com/photo-1533867614985-02c1b2c949bc?auto=format&fit=crop&w=1470&q=80') no-repeat center center fixed;
+      background-size: cover;
+      min-height: 100vh;
+    }
+
+    header {
+      background: rgba(30, 136, 229, 0.85);
+      padding: 15px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.6);
+      user-select: none;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    header h1 {
+      margin: 0;
+      font-weight: 700;
+      font-size: 1.8rem;
+      text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+    }
+
+    /* Logo slot & casino style */
+    #logo-svg {
+      width: 60px;
+      height: 60px;
+      fill: #ffd700;
+      stroke: #fff;
+      stroke-width: 2;
+      filter: drop-shadow(0 0 2px gold);
+      user-select: none;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 30px auto 50px auto;
+      padding: 0 15px;
+      background: rgba(20, 20, 20, 0.85);
+      border-radius: 12px;
+      box-shadow: 0 0 20px #1565c0;
+    }
+
+    section {
+      margin-bottom: 40px;
+      padding: 20px;
+      border-radius: 8px;
+      background: rgba(30, 30, 30, 0.9);
+      box-shadow: 0 0 10px #0d47a1;
+    }
+    section h2 {
+      margin-top: 0;
+      color: #64b5f6;
+      border-bottom: 2px solid #1565c0;
+      padding-bottom: 6px;
+      user-select: none;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+      color: #eee;
+    }
+    th, td {
+      border: 1px solid #333;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background-color: #1565c0;
+      color: #fff;
+    }
+    tr:nth-child(even) {
+      background-color: #272727;
+    }
+    .rating {
+      font-weight: 700;
+      color: #ffd700;
+      letter-spacing: 2px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #bbb;
+      font-size: 0.9rem;
+      user-select: none;
+    }
+
+    /* Responsive for small screens */
+    @media (max-width: 600px) {
+      header {
+        flex-direction: column;
+      }
+      main {
+        margin: 20px 10px 40px 10px;
+      }
+      #logo-svg {
+        width: 50px;
+        height: 50px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <svg id="logo-svg" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-label="Logo Casino">
+    <circle cx="32" cy="32" r="30" fill="gold" stroke="white" stroke-width="2"/>
+    <rect x="22" y="22" width="20" height="20" rx="4" ry="4" fill="#b8860b" stroke="#fff" stroke-width="2"/>
+    <circle cx="32" cy="32" r="7" fill="#fff" />
+    <text x="32" y="37" text-anchor="middle" font-size="10" font-weight="bold" fill="#b8860b" font-family="Arial, sans-serif">777</text>
+  </svg>
+  <h1>UBER63 ONLINE CASINO - Tips Game RTP Update Harian</h1>
+</header>
+
+<main>
+
+  <section id="pussy888">
+    <h2>Server Pussy888</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Nama Game Slot</th>
+          <th>RTP (%)</th>
+          <th>Rating Pembayaran</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Lucky Dragon</td><td>96.5</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>2</td><td>Golden Tiger</td><td>95.9</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>3</td><td>Fortune Panda</td><td>97.2</td><td class="rating">★★★★★</td></tr>
+        <tr><td>4</td><td>Dragon King</td><td>95.7</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>5</td><td>Lucky Fruits</td><td>96.1</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>6</td><td>Magic Lamp</td><td>94.8</td><td class="rating">★★☆☆☆</td></tr>
+        <tr><td>7</td><td>Wild West</td><td>95.5</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>8</td><td>Jungle Treasure</td><td>96.3</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>9</td><td>Ocean Riches</td><td>95.6</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>10</td><td>Happy Panda</td><td>96.7</td><td class="rating">★★★★☆</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section id="mega888">
+    <h2>Server Mega888</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Nama Game Slot</th>
+          <th>RTP (%)</th>
+          <th>Rating Pembayaran</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Lucky Panda</td><td>96.8</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>2</td><td>Golden Lotus</td><td>95.4</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>3</td><td>Dragon’s Luck</td><td>97.0</td><td class="rating">★★★★★</td></tr>
+        <tr><td>4</td><td>Wild Scarabs</td><td>95.6</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>5</td><td>Magic Forest</td><td>96.0</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>6</td><td>Lucky 8</td><td>94.9</td><td class="rating">★★☆☆☆</td></tr>
+        <tr><td>7</td><td>Wild Gems</td><td>95.3</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>8</td><td>Jungle King</td><td>96.4</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>9</td><td>Ocean Pearl</td><td>95.7</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>10</td><td>Fortune Cat</td><td>96.6</td><td class="rating">★★★★☆</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section id="kiss918">
+    <h2>Server 918Kiss</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Nama Game Slot</th>
+          <th>RTP (%)</th>
+          <th>Rating Pembayaran</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Lucky Joker</td><td>96.3</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>2</td><td>Golden Pharaoh</td><td>95.5</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>3</td><td>Dragon Pearl</td><td>97.1</td><td class="rating">★★★★★</td></tr>
+        <tr><td>4</td><td>Wild Samurai</td><td>95.8</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>5</td><td>Magic Lantern</td><td>96.2</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>6</td><td>Lucky Lion</td><td>94.7</td><td class="rating">★★☆☆☆</td></tr>
+        <tr><td>7</td><td>Wild Pirates</td><td>95.4</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>8</td><td>Jungle Quest</td><td>96.5</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>9</td><td>Ocean King</td><td>95.9</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>10</td><td>Fortune Dragon</td><td>96.8</td><td class="rating">★★★★☆</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section id="newtown">
+    <h2>Server Newtown Casino</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Nama Game Slot</th>
+          <th>RTP (%)</th>
+          <th>Rating Pembayaran</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Lucky Sevens</td><td>96.6</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>2</td><td>Golden Riches</td><td>95.8</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>3</td><td>Dragon’s Gold</td><td>97.3</td><td class="rating">★★★★★</td></tr>
+        <tr><td>4</td><td>Wild Buffalo</td><td>95.7</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>5</td><td>Magic Gems</td><td>96.1</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>6</td><td>Lucky Fortune</td><td>94.9</td><td class="rating">★★☆☆☆</td></tr>
+        <tr><td>7</td><td>Wild Hunters</td><td>95.5</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>8</td><td>Jungle Magic</td><td>96.4</td><td class="rating">★★★★☆</td></tr>
+        <tr><td>9</td><td>Ocean Treasure</td><td>95.6</td><td class="rating">★★★☆☆</td></tr>
+        <tr><td>10</td><td>Fortune Wheel</td><td>96.7</td><td class="rating">★★★★☆</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+</main>
+
+<footer>
+  &copy; 2025 UBER63 ONLINE CASINO | Update Tips RTP Setiap Hari
+</footer>
+
+</body>
+</html>
